@@ -1,0 +1,5 @@
+.idea
+KandeGedara_Raw_Tea_Leaves/kandegedara-frontend/node_modules/
+KandeGedara_Raw_Tea_Leaves/kandegedara-frontend/src/config/*
+KandeGedara_Raw_Tea_Leaves/kandegedara-backend/node_modules/
+KandeGedara_Raw_Tea_Leaves/kandegedara-backend/.env
