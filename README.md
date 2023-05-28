@@ -47,6 +47,3 @@ ______________
 <a href = "https://reactjs.org/"><img src="https://img.icons8.com/office/48/null/react.png"/>
 <a herf = "https://nodejs.org/en/"> <img src="https://img.icons8.com/fluency/48/null/node-js.png"/>
 </p>
-
-
-<sub><sup>📌 *documented by @IndudiniThennakoon 2023* </sup></sub>
